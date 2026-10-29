@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T19:28:00.812970+00:00",
+  "updated_at": "2026-10-29T10:20:23.575716+00:00",
   "categories": [
     {
       "id": "movies",
@@ -30,8 +30,9 @@
       "id": "wl-fa27884338dffe7a",
       "category_id": "movies",
       "title": "Общество Онор / Honor Society",
-      "source_url": "https://tv.kinogo.cc/84687-obshestvo-onor-honor-society-tv-kinogo-cc.html",
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/films/comedy/50638-obschestvo-onor-2022.html",
+      "status": "planned",
+      "original_source_url": "https://tv.kinogo.cc/84687-obshestvo-onor-honor-society-tv-kinogo-cc.html"
     },
     {
       "id": "wl-52575912e3115640",
@@ -44,29 +45,33 @@
       "id": "wl-6b67f2fb4d3eab78",
       "category_id": "anime",
       "title": "Необыкновенный неудачник: Дневник переродившегося колдуна S-ранг",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/90569-neobyknovennyy-neudachnik-dnevnik-pererodivshegosya-kolduna-s-ranga-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-c88d919b52da0ff9",
       "category_id": "anime",
       "title": "Я перевоплотился в гоблина, вопросы есть?",
-      "source_url": "https://yummyanime.tv/9039-ja-perevoplotilsja-v-goblina-voprosy-est-b1.html",
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/92963-ya-perevoplotilsya-v-goblina-voprosy-est-2026.html",
+      "status": "planned",
+      "original_source_url": "https://yummyanime.tv/9039-ja-perevoplotilsja-v-goblina-voprosy-est-b1.html"
     },
     {
       "id": "wl-30400cb6e0375f78",
       "category_id": "anime",
       "title": "Реинкарнация аристократа: Благословенный с рождения величайшей силой",
-      "source_url": "https://yummyanime.tv/8485-reinkarnacija-aristokrata-blagoslovennyj-s-rozhdenija-velichajshej-siloj-e1.html",
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/85478-reinkarnaciya-aristokrata-blagoslovennyy-s-rozhdeniya-velichayshey-siloy-2026.html",
+      "status": "planned",
+      "original_source_url": "https://yummyanime.tv/8485-reinkarnacija-aristokrata-blagoslovennyj-s-rozhdenija-velichajshej-siloj-e1.html"
     },
     {
       "id": "wl-629f5a3eb6a8064e",
       "category_id": "anime",
       "title": "Прошло десять лет с момента, как я сказал „Оставьте это на меня“ и стал легендой",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/90780-proshlo-desyat-let-s-momenta-kak-ya-skazal-ostavte-eto-na-menya-i-uhodite-i-stal-legendoy-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-e19461351a80c37f",
@@ -79,8 +84,9 @@
       "id": "wl-a18fe0f30519e8b3",
       "category_id": "anime",
       "title": "Во всеоружии: Сила артефактов",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/92774-vo-vseoruzhii-sila-artefaktov-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-52ceebfc52284254",
@@ -93,43 +99,49 @@
       "id": "wl-3705f60381560dca",
       "category_id": "anime",
       "title": "Волшебник Кунон всё видит",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/85473-volshebnik-kunon-vse-vidit-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-c24f72e40ff5def4",
       "category_id": "anime",
       "title": "Одолженная мной магия будет принудительно изъята посредством возобновляемого кредита",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/92916-odolzhennaya-mnoy-magiya-budet-prinuditelno-izyata-posredstvom-vozobnovlyaemogo-kredita-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-8ba9c6537418b56b",
       "category_id": "anime",
       "title": "Весёлая защита владений беспечного лорда: Превращение безымянной деревни в неприступную крепость с помощью производственной магии",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/85555-veselaya-zaschita-vladeniy-bespechnogo-lorda-prevraschenie-bezymyannoy-derevni-v-nepristupnuyu-krepost-s-pomoschyu-proizvodstvennoy-magii-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-25c3093b06830a99",
       "category_id": "anime",
       "title": "Безжалостная леди Ниа Листон (Nia Liston: The Merciless Maiden)",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/93067-bezzhalostnaya-ledi-nia-liston-edinstvennaya-v-svoem-rode-istoriya-voitelnicy-bogoubiycy-perevoplotivsheysya-v-boleznennuyu-aristokratku-2026.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-61339a03b9f1735b",
       "category_id": "anime",
       "title": "Мой статус убийцы очевидно превосходит геройский (My Status as an Assassin Obviously Exceeds the Hero's)",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/82631-moy-status-ubiycy-ochevidno-prevoshodit-geroyskiy-2025.html",
+      "status": "planned",
+      "original_source_url": null
     },
     {
       "id": "wl-cc15f7dc3e3358e7",
       "category_id": "anime",
       "title": "Изгнанный реинкарнированный тяжёлый рыцарь не имеет себе равных в знаниях игры",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/90748-izgnannyy-reinkarnirovannyy-tyazhelyy-rycar-ne-imeet-sebe-ravnyh-v-znaniyah-igry-2026.html",
+      "status": "planned",
+      "original_source_url": null
     }
   ]
 }
