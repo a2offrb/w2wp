@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:30:30.128228+00:00",
+  "updated_at": "2026-10-29T11:05:18.474434+00:00",
   "categories": [
     {
       "id": "movies",
@@ -23,13 +23,6 @@
       "release_year": 2023
     },
     {
-      "id": "wl-6d601e53acaacb0e",
-      "category_id": "movies",
-      "title": "Roadhouse",
-      "source_url": null,
-      "status": "planned"
-    },
-    {
       "id": "wl-fa27884338dffe7a",
       "category_id": "movies",
       "title": "Общество Онор / Honor Society",
@@ -41,8 +34,12 @@
       "id": "wl-52575912e3115640",
       "category_id": "movies",
       "title": "Читающий мысли",
-      "source_url": "https://lv.kinogo.ec/10019--chitajuschij-mysli.html",
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/series/fiction/2002-chitayuschiy-mysli-2009.html",
+      "status": "planned",
+      "original_source_url": "https://lv.kinogo.ec/10019--chitajuschij-mysli.html",
+      "original_title": "The Listener",
+      "release_year": 2009,
+      "binding_note": "Owner tentatively identified as TV series The Listener; not a confirmed exact original-page match."
     },
     {
       "id": "wl-6b67f2fb4d3eab78",
