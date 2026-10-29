@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:20:23.575716+00:00",
+  "updated_at": "2026-10-29T10:30:30.128228+00:00",
   "categories": [
     {
       "id": "movies",
@@ -16,8 +16,11 @@
       "id": "wl-423ba1db98e877e6",
       "category_id": "movies",
       "title": "Сознание",
-      "source_url": "https://kinogomy.net/films/21292-soznanie.html",
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/films/fiction/62962-osoznanie-2023.html",
+      "status": "planned",
+      "original_source_url": "https://kinogomy.net/films/21292-soznanie.html",
+      "original_title": "Awareness",
+      "release_year": 2023
     },
     {
       "id": "wl-6d601e53acaacb0e",
@@ -77,8 +80,11 @@
       "id": "wl-e19461351a80c37f",
       "category_id": "anime",
       "title": "Покорение иного мира с богиней без последователей",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/adventures/93132-prohozhdenie-parallelnogo-mira-vmeste-s-boginey-u-kotoroy-net-posledovateley-2026.html",
+      "status": "planned",
+      "original_source_url": null,
+      "original_title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "release_year": 2026
     },
     {
       "id": "wl-a18fe0f30519e8b3",
@@ -92,8 +98,11 @@
       "id": "wl-52ceebfc52284254",
       "category_id": "anime",
       "title": "Магия вернувшегося должна быть особенной",
-      "source_url": null,
-      "status": "planned"
+      "source_url": "https://hdrezka-home.tv/animation/fantasy/62552-magiya-vernuvshegosya-dolzhna-byt-osobennoy-2023.html",
+      "status": "planned",
+      "original_source_url": null,
+      "original_title": "Kikansha no Mahou wa Tokubetsu desu",
+      "release_year": 2023
     },
     {
       "id": "wl-3705f60381560dca",
