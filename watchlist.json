@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T11:05:18.474434+00:00",
+  "updated_at": "2026-10-30T15:15:38.656423+00:00",
   "categories": [
     {
       "id": "movies",
@@ -148,6 +148,26 @@
       "source_url": "https://hdrezka-home.tv/animation/fantasy/90748-izgnannyy-reinkarnirovannyy-tyazhelyy-rycar-ne-imeet-sebe-ravnyh-v-znaniyah-igry-2026.html",
       "status": "planned",
       "original_source_url": null
+    },
+    {
+      "id": "wl-d2801997f527441f",
+      "category_id": "anime",
+      "title": "Изгнанный читер-чародей наслаждается беззаботной второй жизнью (2026; Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru)",
+      "source_url": "https://youtube.com/shorts/7LaZJQyegu8?si=nab6HRpRfRfbEZM0",
+      "status": "planned",
+      "original_source_url": "https://youtube.com/shorts/7LaZJQyegu8?si=nab6HRpRfRfbEZM0",
+      "source_section": "Буду смотреть",
+      "binding_note": "Unresolved: original source retained; no verified supported provider binding."
+    },
+    {
+      "id": "wl-f0744670860d35cf",
+      "category_id": "movies",
+      "title": "Ноэлль (Николь) / Noelle (2019)",
+      "source_url": "https://www.imdb.com/title/tt5097410/fullcredits/",
+      "status": "planned",
+      "original_source_url": "https://www.imdb.com/title/tt5097410/fullcredits/",
+      "source_section": "Семейное — посмотреть",
+      "binding_note": "Unresolved: original source retained; no verified supported provider binding."
     }
   ]
 }
