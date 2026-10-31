@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:49:07.415855+00:00",
+  "updated_at": "2026-10-31T11:32:01.726363+00:00",
   "categories": [
     {
       "id": "movies",
@@ -176,6 +176,16 @@
       "source_url": "https://youtube.com/shorts/YcWqiNyvgnA?si=xLAQWoFR60iUpLbC",
       "status": "planned",
       "original_source_url": "https://youtube.com/shorts/YcWqiNyvgnA?si=xLAQWoFR60iUpLbC",
+      "source_section": "Буду смотреть",
+      "binding_note": "Unresolved: original source retained; no verified supported provider binding."
+    },
+    {
+      "id": "wl-efbc73d809876068",
+      "category_id": "movies",
+      "title": "Судный день (2016)",
+      "source_url": "https://rezka.ag/films/action/23508-sudnyy-den-2016.html",
+      "status": "planned",
+      "original_source_url": "https://rezka.ag/films/action/23508-sudnyy-den-2016.html",
       "source_section": "Буду смотреть",
       "binding_note": "Unresolved: original source retained; no verified supported provider binding."
     }
