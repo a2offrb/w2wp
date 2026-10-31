@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:15:38.656423+00:00",
+  "updated_at": "2026-10-31T09:49:07.415855+00:00",
   "categories": [
     {
       "id": "movies",
@@ -167,6 +167,16 @@
       "status": "planned",
       "original_source_url": "https://www.imdb.com/title/tt5097410/fullcredits/",
       "source_section": "Семейное — посмотреть",
+      "binding_note": "Unresolved: original source retained; no verified supported provider binding."
+    },
+    {
+      "id": "wl-54d77f660e60e958",
+      "category_id": "anime",
+      "title": "В команде героя была милая девушка, так что я признался ей (Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.)",
+      "source_url": "https://youtube.com/shorts/YcWqiNyvgnA?si=xLAQWoFR60iUpLbC",
+      "status": "planned",
+      "original_source_url": "https://youtube.com/shorts/YcWqiNyvgnA?si=xLAQWoFR60iUpLbC",
+      "source_section": "Буду смотреть",
       "binding_note": "Unresolved: original source retained; no verified supported provider binding."
     }
   ]
